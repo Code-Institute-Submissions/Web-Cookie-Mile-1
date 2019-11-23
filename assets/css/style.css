@@ -1,15 +1,32 @@
-body html {
-  margin: 0;
-  padding: 0;
-}
 
-.backgrounding {
-  background-image: url(../images/header_background.jpg);
+.mynav{
+  background: url(../images/header_background.jpg);
+  position: relative;
+  background-position: center ;
   background-size: cover;
-  background-position: center center;
-  background-repeat: no-repeat;
-  height: 100vh;
-  width: 100%;
-  
+  min-height: 100vh;
+}
+.navbar {
+  background-color: transparent !important;
+}
+
+.navbar .navbar-brand {
+  color: #FFF;
+  font-weight: bolder;
+  font-size: 1.3em;
+
 
 }
+
+.navbar .navbar-nav {
+  margin: 0 auto;
+}
+
+.navbar .nav-item a{
+  color: #FFF !important;
+}
+
+.dropdown-item:hover{
+  background-color: rgba(0,0,0,0.3);
+}
+
