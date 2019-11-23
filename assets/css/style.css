@@ -1,4 +1,8 @@
-
+body {
+  height: 100vh;
+  overflow: hidden;
+  }
+/*----------NAVBAR---------*/
 .mynav{
   background: url(../images/header_background.jpg);
   position: relative;
@@ -29,4 +33,23 @@
 .dropdown-item:hover{
   background-color: rgba(0,0,0,0.3);
 }
+
+/*----------Home---------*/
+.name {
+  text-align: center;
+  color: rgb(245, 245, 245);
+  font-size: 100px;
+  padding: 0px;
+  margin: 0px;
+  margin-top: 200px;
+  
+}
+
+.services {
+  text-align: center;
+  color: antiquewhite;
+  font-size: 30px;
+  
+}
+
 
