@@ -1,21 +1,22 @@
-body {
-  height: 100vh;
-  overflow: hidden;
-  }
+
 /*----------NAVBAR---------*/
 .mynav{
   background: url("../images/header_Background.jpg");
+    background-size:cover;
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position-x: center;
+    background-position-y: top;
+
  
-  background-position: center ;
-  background-size: cover;
-  min-height: 100vh;
 }
 .navbar {
   background-color: transparent !important;
 }
 
 .navbar .navbar-brand {
-  color: #FFF;
+  color: rgb(241, 122, 122);
   font-weight: bolder;
   font-size: 1.3em;
 
@@ -36,18 +37,19 @@ body {
 
 /*----------Home---------*/
 .name {
-  text-align: center;
-  color: rgb(245, 245, 245);
-  font-size: 100px;
+  text-align:center ;
+  color: rgb(5, 5, 5);
+  font-size: 70px;
   padding: 0px;
   margin: 0px;
-  margin-top: 200px;
+  margin-top: 110px;
   
 }
 
 .services {
-  text-align: center;
-  color: antiquewhite;
+  
+  text-align:center ;
+  color: rgb(255, 255, 255);
   font-size: 30px;
   
 }
