@@ -35,7 +35,7 @@
   background-color: rgba(0,0,0,0.3);
 }
 
-/*----------Home---------*/
+/*----------Landing-Page-Home---------*/
 .name {
   text-align:center ;
   color: rgb(5, 5, 5);
@@ -53,3 +53,110 @@
   font-size: 30px;
   
 }
+
+/*----------About---------*/
+
+.about-row {
+  font-size: 1.75em;
+  line-height: 1.5;
+  color: rgb(255, 255, 255);
+}
+
+h2 {
+  margin-left: 15px;
+  margin-top: 10%;
+  letter-spacing: 6px;
+  text-transform: uppercase;
+  color: rgb(255, 255, 255);
+}
+
+.about-row .about-p {
+  font-size: .6em;
+  margin: 5px 0px 5px 0px;
+  color: rgb(255, 255, 255);
+}
+
+/*----------Work---------*/
+#work {
+  background-attachment: fixed;
+  background-image: url('../images/about.jpg');
+  background-position: center;
+  background-size: cover;
+  width: 100vw;
+  padding-bottom: 50px;
+  background-repeat: no-repeat;
+  position: relative;
+  font-weight: 300;
+  margin-bottom: 0px;
+}
+
+.card-body .row {
+  text-align: center;
+  padding-top: 10px;
+}
+
+.project-cards {
+  display: inline-table;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.col-xs-6 {
+  align-items: center;
+}
+
+.card {
+  background-color: #fdfdfd;
+  border-radius: 2.5%;
+  width: 18em;
+  height: 18em;
+  top: 50%;
+  left: 50%;
+  margin: 15% auto;
+  padding: 15px;
+  align-items: center;
+  z-index: 2;
+  display: block;
+  opacity: 0.8;
+  transition: all .3s ease-in;
+  -moz-transition: all .3s ease-in;
+  -webkit-transition: all .3s ease-in;
+}
+
+.card:hover {
+  opacity: 1;
+}
+
+.card-title {
+  font-size: 1.25em;
+  font-weight: bold;
+}
+
+.card-subtitle {
+  font-size: 1.1em;
+  font-weight: bold;
+}
+
+.card-body .card-text {
+  font-size: 1.07em;
+}
+
+.desktop-icon {
+  padding: 20px 0;
+  border-radius: 50%;
+  font-size: 34px;
+  width: 54px;
+  height: 54px;
+  line-height: 18px;
+}
+
+.github-icon {
+  padding: 20px 0;
+  border-radius: 50%;
+  font-size: 36px;
+  width: 54px;
+  height: 54px;
+  line-height: 14px;
+}
+
