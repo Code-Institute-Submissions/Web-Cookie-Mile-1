@@ -2,12 +2,14 @@
 /*----------NAVBAR---------*/
 .mynav{
   background: url("../images/header_Background.jpg");
-    background-size:cover;
+  background-size:cover;
     min-height: 100vh;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position-x: center;
     background-position-y: top;
+   
+  
 
  
 }
@@ -53,35 +55,55 @@
   font-size: 30px;
   
 }
+#main-heading {
+  padding-top: 2em;
+}
 
 /*----------About---------*/
 
-.about-row {
-  font-size: 1.75em;
-  line-height: 1.5;
-  color: rgb(255, 255, 255);
+#about-me {
+  padding-top: 5em;
+  
+  
 }
 
-h2 {
-  margin-left: 15px;
-  margin-top: 10%;
-  letter-spacing: 6px;
-  text-transform: uppercase;
-  color: rgb(255, 255, 255);
+.jumbotron {
+  background: url("../images/Me.jpg");
+  background-repeat: no-repeat;
+  background-position-x: right;
+    background-position-y: bottom;
 }
 
-.about-row .about-p {
-  font-size: .6em;
-  margin: 5px 0px 5px 0px;
-  color: rgb(255, 255, 255);
+.lead  {
+  color: #FFF;
 }
+
+.display-4{
+  color: #FFF;
+}
+
+.about-p {
+  color: #FFF;
+}
+.about-me-color {
+  color: rgb(255, 255, 255);
+  text-align: center;
+  
+}
+
+.about-me-jumbotron {
+  background-color: rgb(17, 14, 14) !important;
+}
+
+
 
 /*----------Skills---------*/
 
- 
+.index {
+  padding-top: 130px;
+}
 
-.progress {
-  
+.progress { 
   position: relative;
   height: 25px;
   margin-bottom: 8px;
@@ -102,29 +124,40 @@ h2 {
   margin: 40px 20px;
  margin-bottom: 100%;
 }
+
+/*----------Projects---------*/
+
+.index-info {
+  padding-top: 130px;
+}
+
+
 /*----------Contact---------*/
-#contact {
-  background-attachment: fixed;
-  background-image: url('../images/computer.jpg');
-  background-position: left;
-  background-size: cover;
-  padding-bottom: 100px;
-  padding-top: 42px;
-  text-align: left;
-  margin-bottom: 30px;
-}
 
-.contact-form {
-  position: relative;
-  top: 6%;
-}
-
-#contact-head {
-  margin: 30px -11px 25px 0px;
-}
-
-.contact {
-  margin: 15px 0px 15px 0px;
-}
-
+  #contact {
+    background-attachment: fixed;
+    background-image: url('../images/computer.jpg');
+    background-position: left;
+    background-size: cover;
+    padding-bottom: 100px;
+    padding-top: 42px;
+    text-align: left;
+    margin-bottom: 30px;
+  }
+  
+  .contact-form {
+    position: relative;
+    top: 6%;
+  }
+  
+  #contact-head {
+    margin: 30px -11px 25px 0px;
+  }
+  
+  .contact {
+    margin: 15px 0px 15px 0px;
+  }
+  
+  
+  
 
