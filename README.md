@@ -11,7 +11,7 @@ I am a junior accountant, and even though, having limited to work on the project
 I have focused primarily on simplicity, emphasizing on the landing page with the logo and moto of my future brand. It look just way I wanted to look.
 <img src="assets/images/My_Project_1.png">
 <img src="assets/images/My_Project_2.png">
-<img src="assets/imagess/My_Project_3.png">
+<img src="assets/images/My_Project_3.png">
 <img src="assets/images/My_Project_4.png">
 <img src="assets/images/My_Project_5.png">
 
