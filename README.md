@@ -1,12 +1,12 @@
 # Mile-1
 
-Milestone One Project
+<b>Milestone One Project</b>
 
 The aim of this project is to satisfy Code Institute requirements as well as to represent my future business as a software provider. It is my very first project, hence, there is a lot more to be desired and tweaked before there is a final push and call out to customers. 
 I believe, I have created mobile first approach web site using HTM and CSS, the modules I got familiar with so far. Bootstrap, has been used to a big extend as well. Back-end functionality is not available for that project, so, from the links, only “learn more” will work, providing external window loading my Resume.
 I am a junior accountant, and even though, having limited to work on the project, I have big ideas on how this will grow in the future!
 
-UX
+<b>UX</b>
 
 I have focused primarily on simplicity, emphasizing on the landing page with the logo and moto of my future brand. It look just way I wanted to look.
 <img src="assets/images/My_Project_1.png">
@@ -15,7 +15,7 @@ I have focused primarily on simplicity, emphasizing on the landing page with the
 <img src="assets/images/My_Project_4.png">
 <img src="assets/images/My_Project_5.png">
 
-Current Features
+<b>Current Features</b>
 
 •	About Me – you can find more about my background
 
@@ -23,11 +23,11 @@ Current Features
 
 •	Contact – A contact form which has not been linked to anything
 
-Future Features
+<b>Future Features</b>
 
 •	Improving the brand portfolio 
 
-Technologies
+<b>Technologies</b>
 
 •	HTML-HTML5
 
@@ -41,13 +41,13 @@ Technologies
 
 •	Javascript/JQuery – This has enabled the drop down on the nav bar working properly
 
-Testing and Debugging 
+<b>Testing and Debugging</b> 
 
 •	For these I have used DevTools in Google. Great feature that enables you making changes without actually changing the code
 
 •	Also, give you the opportunity to switch between different mobile versions seeing how the project would look like 
 
-Credits
+<b>Credits</b>
 
 •	Special shout outs to my mentor Reuben Ferrante, great guy, would not make it without him scheduling meeting outside his calendar and giving way more than 30 min per session are only a small portion of what this man has done for me
 
