@@ -55,7 +55,7 @@ I have focused primarily on simplicity, emphasizing on the landing page with the
 
 •	W3Schools – I used for the icons embedded in the drop down
 
-•	Finally, I want to thank Code Institute for having me in that great program 
+•	Finally, I want to thank Code Institute for extending my deadline and having me in that great program 
 
 
 
