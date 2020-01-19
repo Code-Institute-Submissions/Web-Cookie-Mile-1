@@ -23,16 +23,16 @@ In terms of keeping uniformity across different sections of the site, I wanted t
 
 <b>Skeleton</b>
 
-<a href="assets/images/My_Project_1.png" class="stretched-link">Home wireframe</a>
-<a href="assets/images/My_Project_2.png" class="stretched-link"> About wireframe</a>
-<a href="assets/images/My_Project_3.png" class="stretched-link">Projects wireframe</a>
-<a href="assets/images/My_Project_4.png" class="stretched-link">Skills wireframe</a>
-<a href="assets/images/My_Project_5.png" class="stretched-link">Contact wireframe</a>
-<a href="assets/images/MV_Home.png" class="stretched-link">MV Home</a>
-<a href="assets/images/MV_About_Me.png" class="stretched-link">MV About</a>
-<a href="assets/images/MV_Projects.png" class="stretched-link">MV Projects</a>
-<a href="assets/images/MV_Skills.png" class="stretched-link">MV Skills</a>
-<a href="assets/images/MV_Contact.png" class="stretched-link">MV Contact</a>
+<a href="assets/images/My_Project_1.png">Home wireframe</a>
+<a href="assets/images/My_Project_2.png"> About wireframe</a>
+<a href="assets/images/My_Project_3.png">Projects wireframe</a>
+<a href="assets/images/My_Project_4.png">Skills wireframe</a>
+<a href="assets/images/My_Project_5.png">Contact wireframe</a>
+<a href="assets/images/MV_Home.png">MV Home</a>
+<a href="assets/images/MV_About_Me.png">MV About</a>
+<a href="assets/images/MV_Projects.png">MV Projects</a>
+<a href="assets/images/MV_Skills.png">MV Skills</a>
+<a href="assets/images/MV_Contact.png">MV Contact</a>
 
 
 <b>Current Features</b>
@@ -112,10 +112,9 @@ To Run Locally:
 
 • You can launch the website by opening up the index.html file from your newly created folder
 
-
 <b>Credits</b>
 
-	Special shout outs to my mentor Reuben Ferrante, great guy, would not make it without him scheduling meeting outside his calendar and giving way more than 30 min per session are only a small portion of what this man has done for me.
+Special shout outs to my mentor Reuben Ferrante, great guy, would not make it without him scheduling meeting outside his calendar and giving way more than 30 min per session are only a small portion of what this man has done for me.
 
  
 
