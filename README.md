@@ -26,16 +26,16 @@ In terms of keeping uniformity across different sections of the site, I wanted t
  
  #### Skeleton
 
-* [Home Desktop](../wireframes/desktop_home.png)
-* [About Me Desktop](desktop_about.png)
-* [Projects Desktop](desktop_projects.png)
-* [Skills Desktop](desktop_skills.png)
-* [Contact Desktop](desktop_contact.png)
-* [Home MV](mv_home.png)
-* [About Me MV](mv_about_me.png)
-* [Projects MV](mv_projects.png)
-* [Skills MV](mv_skills.png)
-* [Contact MV](mv_contact.png)
+* [Home Desktop](https://github.com/Web-Cookie/Mile-1/blob/master/wireframes/desktop_home.png)
+* [About Me Desktop](https://github.com/Web-Cookie/Mile-1/blob/master/wireframes/desktop_about.png)
+* [Projects Desktop](https://github.com/Web-Cookie/Mile-1/blob/master/wireframes/desktop_projects.png)
+* [Skills Desktop](https://github.com/Web-Cookie/Mile-1/blob/master/wireframes/desktop_skills.png)
+* [Contact Desktop](https://github.com/Web-Cookie/Mile-1/blob/master/wireframes/desktop_contact.png)
+* [Home MV](https://github.com/Web-Cookie/Mile-1/blob/master/wireframes/mv_home.png)
+* [About Me MV](https://github.com/Web-Cookie/Mile-1/blob/master/wireframes/mv_about_me.png)
+* [Projects MV](https://github.com/Web-Cookie/Mile-1/blob/master/wireframes/mv_projects.png)
+* [Skills MV](https://github.com/Web-Cookie/Mile-1/blob/master/wireframes/mv_skills.png)
+* [Contact MV](https://github.com/Web-Cookie/Mile-1/blob/master/wireframes/mv_contact.png)
 
 
 ## Current Features
