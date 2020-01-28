@@ -26,7 +26,7 @@ In terms of keeping uniformity across different sections of the site, I wanted t
  
  #### Skeleton
 
-* ![Home Desktop](../wireframes/desktop_home.png)
+* [Home Desktop](../wireframes/desktop_home.png)
 * [About Me Desktop](desktop_about.png)
 * [Projects Desktop](desktop_projects.png)
 * [Skills Desktop](desktop_skills.png)
