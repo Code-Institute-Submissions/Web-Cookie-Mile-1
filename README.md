@@ -26,16 +26,16 @@ In terms of keeping uniformity across different sections of the site, I wanted t
  
  #### Skeleton
 
-[Home Desktop](desktop_home.png)
-[About Me Desktop](desktop_about.png)
-[Projects Desktop](desktop_projects.png)
-[Skills Desktop](desktop_skills.png)
-[Contact Desktop](desktop_contact.png)
-[Home MV](mv_home.png)
-[About Me MV](mv_about_me.png)
-[Projects MV](mv_projects.png)
-[Skills MV](mv_skills.png)
-[Contact MV](mv_contact.png)
+* [Home Desktop](desktop_home.png)
+* [About Me Desktop](desktop_about.png)
+* [Projects Desktop](desktop_projects.png)
+* [Skills Desktop](desktop_skills.png)
+* [Contact Desktop](desktop_contact.png)
+* [Home MV](mv_home.png)
+* [About Me MV](mv_about_me.png)
+* [Projects MV](mv_projects.png)
+* [Skills MV](mv_skills.png)
+* [Contact MV](mv_contact.png)
 
 
 ## Current Features
