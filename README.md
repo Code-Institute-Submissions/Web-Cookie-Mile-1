@@ -6,7 +6,7 @@ The aim of this project is to satisfy Code Institute requirements as well as to 
 
 I believe, I have created mobile first approach web site using HTML and CSS, the modules I got familiar with so far. Bootstrap, has been used to a big extend as well. 
 
-I am a junior accountant, and even though, having limited to work on the project, I have big ideas on how this will grow in the future!
+Even though, having limited time to work on the project, I have big ideas on how this will grow in the future!
 
 
 ## UX and Design
@@ -88,7 +88,7 @@ By clicking on the logo of the page (which appears on every page of the website)
 
 ## Deployment Write-up
 
-Deployed website can be found on [Click me](file:///C:/Users/Lozi/Mile-1/Mile-1/index.html)
+Deployed website can be found on [Click me](https://web-cookie.github.io/Mile-1/)
 
 I have created the website using VS Code Studio editor. The reason I have decided to do it this way, is because I wanted to gain experience using editor which is independent from the school environment. The editor has a build in terminal allowing commands like git init, git add, and git commit to take place. The following steps have been undertaken for the online deployment:
 
