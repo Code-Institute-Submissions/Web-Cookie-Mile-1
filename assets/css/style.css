@@ -7,10 +7,6 @@
     background-attachment: fixed;
     background-position-x: center;
     background-position-y: top;
-   
-  
-
- 
 }
 .navbar {
   background-color: transparent !important;
@@ -20,8 +16,6 @@
   color: rgb(241, 122, 122);
   font-weight: bolder;
   font-size: 1.3em;
-
-
 }
 
 .navbar .navbar-nav {
@@ -37,6 +31,7 @@
 }
 
 /*----------Landing-Page-Home---------*/
+
 .name {
   text-align:center ;
   color: rgb(5, 5, 5);
@@ -52,8 +47,8 @@
   text-align:center ;
   color: rgb(255, 255, 255);
   font-size: 30px;
-  
 }
+
 #main-heading {
   padding-top: 2em;
 }
@@ -62,8 +57,6 @@
 
 #about-me {
   padding-top: 5em;
-  
-  
 }
 
 #about-me-jumbotron {
@@ -81,10 +74,10 @@
 .about-p {
   color: #FFF;
 }
+
 .about-me-color {
   color: rgb(22, 21, 21);
   text-align: center;
-  
 }
 
 /*----------Skills---------*/
@@ -97,7 +90,6 @@
   position: relative;
   height: 25px;
   margin-bottom: 8px;
- 
 }
 
 .progress-type {
@@ -107,7 +99,6 @@
   padding: 3px 30px 2px 10px;
   color: #fafafa;
   background-color: rgba (25, 25, 25, 0.2);
-
 }
 
 .progress-section {
@@ -121,12 +112,9 @@
   padding-top: 130px;
 }
 
-
 /*----------Contact Me---------*/
 
-  
-  
-  .contact-form {
+.contact-form {
     position: relative;
     top: 6%;
   }
